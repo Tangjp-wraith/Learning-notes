@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:CS学习笔记",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"C++ Learning/AP1400-2-HW\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"C++ Learning\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Leetcode",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    },
+    {
+      "query": "file:Database",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "path:Database",
+      "color": {
+        "a": 1,
+        "rgb": 10084434
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.00170103092784,
+  "lineSizeMultiplier": 1.031,
+  "collapse-forces": false,
+  "centerStrength": 0.471649484536082,
+  "repelStrength": 16.6494845360825,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4925639019848664,
+  "close": true
+}

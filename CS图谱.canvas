@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"d9fd51e11431a3b8","x":48,"y":171,"width":1542,"height":873,"color":"5","type":"group","label":"CS Courses"},
+		{"id":"249b6532ac6cdcf7","x":107,"y":218,"width":331,"height":173,"type":"text","text":"# Distributed System"},
+		{"id":"3c59c18552369572","x":1195,"y":218,"width":283,"height":173,"type":"text","text":"# OS"},
+		{"id":"d30b1674e77b11f2","x":1347,"y":-176,"width":262,"height":153,"type":"text","text":"# MIT 6.S081"},
+		{"id":"4eea3966b871b784","x":1038,"y":-257,"width":157,"height":81,"color":"6","type":"text","text":"[课程文档及作业](http://xv6.dgs.zone/)\n[上课内容](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)"},
+		{"id":"8d7b3d2c25ea6a1e","x":1337,"y":-863,"width":348,"height":311,"color":"6","type":"file","file":"CS Courses/MIT 6.S081/Lab2：system calls.md"},
+		{"id":"3bdfa8b2e3e1c261","x":888,"y":-863,"width":300,"height":311,"color":"6","type":"file","file":"CS Courses/MIT 6.S081/Lab1：Xv6 and Unix utilities.md"},
+		{"id":"c3990c69061a61ed","x":107,"y":744,"width":331,"height":195,"type":"text","text":"# Database \n#"},
+		{"id":"0f7a576979a66428","x":1195,"y":744,"width":283,"height":195,"type":"text","text":"# Network"},
+		{"id":"c76a8d6a07171d6a","x":1935,"y":848,"width":250,"height":148,"type":"text","text":"# CS144"},
+		{"id":"ca5e93dd8a1cc643","x":-469,"y":-104,"width":250,"height":127,"type":"text","text":"# MIT 6.824"},
+		{"id":"9a92a2fa53f86397","x":-61,"y":1939,"width":337,"height":316,"color":"6","type":"file","file":"CS Courses/CMU15-445/Project0 - C++ Primer.md"},
+		{"id":"8311acb2f3f345c7","x":587,"y":1939,"width":400,"height":316,"color":"6","type":"file","file":"CS Courses/CMU15-445/Project1-Buffer Pool.md"},
+		{"id":"80590f42b11dd5bb","x":276,"y":1357,"width":297,"height":148,"type":"text","text":"# CMU15-445"},
+		{"id":"16e41bc06e514c70","x":2914,"y":185,"width":297,"height":273,"color":"6","type":"file","file":"C++/cppServer.md"},
+		{"id":"242f0f12c63596d3","x":3724,"y":321,"width":313,"height":300,"color":"5","type":"text","text":"# C/C++"},
+		{"id":"1b4413e34f628c59","x":3871,"y":-356,"width":326,"height":291,"color":"6","type":"file","file":"C++/C++设计模式.md"},
+		{"id":"ace55d6ebe30b982","x":4535,"y":185,"width":297,"height":279,"color":"6","type":"file","file":"C++/cppLogger.md"},
+		{"id":"cf3d282d3ae5337b","x":4535,"y":621,"width":297,"height":272,"type":"file","file":"C++/cppSQLite.md"},
+		{"id":"51c9a401896525d0","x":-1954,"y":305,"width":290,"height":224,"color":"5","type":"text","text":"# GO"},
+		{"id":"51320d21d63377ed","x":-2249,"y":869,"width":355,"height":289,"color":"6","type":"file","file":"GO/OSS对象存储服务器.md"},
+		{"id":"11001a4e31c0b8fe","x":3270,"y":1203,"width":330,"height":316,"color":"6","type":"file","file":"C++/AP1400-HW笔记.md"}
+	],
+	"edges":[
+		{"id":"89028f388bd45a48","fromNode":"3c59c18552369572","fromSide":"top","toNode":"d30b1674e77b11f2","toSide":"bottom","color":"4","label":"C"},
+		{"id":"03f424cc63430913","fromNode":"d30b1674e77b11f2","fromSide":"top","toNode":"3bdfa8b2e3e1c261","toSide":"bottom","color":"4","label":"lab1"},
+		{"id":"7e6d895ba28fddbe","fromNode":"80590f42b11dd5bb","fromSide":"bottom","toNode":"9a92a2fa53f86397","toSide":"top","color":"4","label":"lab0"},
+		{"id":"51d363686c545ae3","fromNode":"51c9a401896525d0","fromSide":"bottom","toNode":"51320d21d63377ed","toSide":"top"},
+		{"id":"3ba8c44f111a891e","fromNode":"80590f42b11dd5bb","fromSide":"bottom","toNode":"8311acb2f3f345c7","toSide":"top","label":"lab1"},
+		{"id":"2a2a442e657e9a1c","fromNode":"c3990c69061a61ed","fromSide":"bottom","toNode":"80590f42b11dd5bb","toSide":"top","color":"4","label":"C++"},
+		{"id":"239abf4bdb485f5b","fromNode":"242f0f12c63596d3","fromSide":"left","toNode":"16e41bc06e514c70","toSide":"right","label":"网络编程"},
+		{"id":"c115aa808ab7fb2d","fromNode":"d30b1674e77b11f2","fromSide":"left","toNode":"4eea3966b871b784","toSide":"right"},
+		{"id":"8b925a1cb74a9430","fromNode":"242f0f12c63596d3","fromSide":"bottom","toNode":"11001a4e31c0b8fe","toSide":"top"},
+		{"id":"8488ebc6aa35a836","fromNode":"249b6532ac6cdcf7","fromSide":"left","toNode":"ca5e93dd8a1cc643","toSide":"right","color":"4","label":"GO"},
+		{"id":"9bc20696821bcc0b","fromNode":"0f7a576979a66428","fromSide":"right","toNode":"c76a8d6a07171d6a","toSide":"left","color":"4","label":"C++"},
+		{"id":"872086d61f8ca1ed","fromNode":"242f0f12c63596d3","fromSide":"right","toNode":"ace55d6ebe30b982","toSide":"left","color":"4"},
+		{"id":"9c1fcf6beeffaf7a","fromNode":"242f0f12c63596d3","fromSide":"top","toNode":"1b4413e34f628c59","toSide":"bottom","color":"4","label":"设计模式"},
+		{"id":"b8bc10945c0fb8bd","fromNode":"d30b1674e77b11f2","fromSide":"top","toNode":"8d7b3d2c25ea6a1e","toSide":"bottom","label":"lab2"},
+		{"id":"b1140c77dd68f8b6","fromNode":"242f0f12c63596d3","fromSide":"right","toNode":"cf3d282d3ae5337b","toSide":"left"}
+	]
+}
