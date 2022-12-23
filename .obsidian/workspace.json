@@ -4,26 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c7fe87a2da684578",
+        "id": "831d81e45827a4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "61b5013ac88abdd3",
+            "id": "9643607ce40976e3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "CS图谱.canvas",
                 "viewState": {
-                  "x": 912.9199285235301,
-                  "y": 1716.50269481204,
-                  "zoom": -0.9590780631678644,
+                  "x": 3563.711878169341,
+                  "y": 932.7328297018197,
+                  "zoom": -1.25,
                   "snapToGrid": false
                 }
               }
             }
+          },
+          {
+            "id": "27fa04248c5fdae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/cppQuiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "faef6ced23a776c8",
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS图谱.canvas",
+                "file": "C++/cppQuiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS图谱.canvas",
+                "file": "C++/cppQuiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS图谱.canvas"
+                "file": "C++/cppQuiz.md"
               }
             }
           }
@@ -161,17 +175,17 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "61b5013ac88abdd3",
+  "active": "27fa04248c5fdae3",
   "lastOpenFiles": [
-    "CS Courses/MIT 6.S081/Lab2：system calls.md",
     "CS图谱.canvas",
+    "C++/cppQuiz.md",
+    "Leetcode.md",
+    "CS Courses/CS144/Lab Checkpoint 0：networking warmup.md",
+    "CS Courses/CMU15-445/Project1-Buffer Pool.md",
+    "Leetcode.canvas",
+    "CS Courses/MIT 6.S081/内核代码解读.md",
+    "CS Courses/MIT 6.S081/Lab2：system calls.md",
     "C++/cppSQLite.md",
-    "C++/Parallel课程笔记.md",
-    "CS Courses/MIT 6.S081/Lab1：Xv6 and Unix utilities.md",
-    "C++/AP1400-HW笔记.md",
-    "C++/C++设计模式.md",
-    "Excalidraw/草稿.md",
-    "Excalidraw/Drawing 2022-12-15 15.50.55.excalidraw.md",
-    "C++/cppLogger.md"
+    "C++/Parallel课程笔记.md"
   ]
 }
